@@ -1,0 +1,14 @@
+diff --git a/droid-system-device/helpers/remove-unused-system.sh b/droid-system-device/helpers/remove-unused-system.sh
+index d83c22e..cd4196a 100755
+--- a/droid-system-device/helpers/remove-unused-system.sh
++++ b/droid-system-device/helpers/remove-unused-system.sh
+@@ -50,7 +50,6 @@ rm -rf "$TREE_SPARSE"/tts
+ rm -rf "$TREE_SPARSE"/usr/hyphen-data
+ rm -rf "$TREE_SPARSE"/usr/keylayout
+ rm -rf "$TREE_SPARSE"/usr/qfipsverify/bootimg.hmac
+-rm -rf "$TREE_SPARSE"/vendor/app
+ rm -rf "$TREE_SPARSE"/vendor/bin/slim_ap_daemon
+ rm -rf "$TREE_SPARSE"/vendor/Cambodia
+ rm -rf "$TREE_SPARSE"/vendor/CherryCommon
+ 
+
