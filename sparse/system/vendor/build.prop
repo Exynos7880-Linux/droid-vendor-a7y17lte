@@ -18,10 +18,10 @@ ro.vendor.build.version.incremental=eng.ayman.20220922.234833
 ro.vendor.build.version.release=10
 ro.vendor.build.version.sdk=29
 ro.product.vendor.brand=samsung
-ro.product.vendor.device=a5y17lte
+ro.product.vendor.device=a7y17lte
 ro.product.vendor.manufacturer=samsung
-ro.product.vendor.model=SM-A520F
-ro.product.vendor.name=lineage_a5y17lte
+ro.product.vendor.model=SM-A720F
+ro.product.vendor.name=lineage_a7y17lte
 # end common build properties
 #
 # BOOTIMAGE_BUILD_PROPERTIES

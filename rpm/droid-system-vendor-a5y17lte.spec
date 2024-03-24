@@ -1,5 +1,5 @@
 %define multiple_rpms 1
-%define rpm_device a5y17lte
+%define rpm_device a7y17lte
 
 %define variant -vendor
 
